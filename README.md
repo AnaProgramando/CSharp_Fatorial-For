@@ -1,9 +1,11 @@
-## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Fatorial For
+![banner CSharp - Fatorial For](https://github.com/AnaProgramando/CSharp_Fatorial-For/blob/1a931f3e549e2317175beec5a868870999355f18/CSharp_Fatorial-For.png)
+----
 
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=32CD32&style=for-the-badge"/>
 
 <p align="center">
  <a href="#-welcome">Welcome</a> | 
+ <a href="#-csharp---fatorial-for">Fatorial For</a> |  
  <a href="#-d%C3%BAvidas">Dúvidas</a> | 
  <a href="#%EF%B8%8F-contatos">Contatos</a> | 
  <a href="#%EF%B8%8F-desenvolvedora">Desenvolvedora</a>
@@ -15,6 +17,9 @@ Olá, seja muito bem vinda(o)!
 
 Tive a ideia de começar o desafio de #100DaysOfCode, além de compartilhar alguns projetos para quem tem interesse em aprender C#, por isso se trata de algo bem simples para quem gostaria de iniciar na programação ou precisa melhorar as suas habilidades.
 
+<br>
+
+## <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> CSharp - Fatorial For
 
 📚 Aproveite o código desse exercício
 
@@ -64,5 +69,5 @@ Se precisar de ajuda, entre em contato comigo 😉
 
 
 <div>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Laco-de-Repeticao-While/blob/a4cbc1b827e088bd4fa496f07395d4f9f825dae9/thor.gif"/>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/AnaProgramando/CSharp_Fatorial-For/blob/1a931f3e549e2317175beec5a868870999355f18/Stranger%20Things.png"/>
 </div>
